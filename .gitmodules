@@ -1,0 +1,3 @@
+[submodule "PhotoSketch"]
+	path = PhotoSketch
+	url = https://github.com/mtli/PhotoSketch.git
